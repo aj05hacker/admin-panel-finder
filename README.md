@@ -20,10 +20,6 @@
     * #### Windows
        download [tor windows expert bundle](https://www.torproject.org/download/tor/)
 
-* ## Preview
-   <a href="http://www.youtube.com/watch?feature=player_embedded&v=5C9aOinwKAs" target="_blank">
-      <img src="https://i.imgur.com/610tOPC.png" alt="Watch the video" border="10" />
-   </a>
 
 * ## Installation
       
@@ -59,18 +55,3 @@
 - [x] HTTP/HTTPS Proxies
 - [x] Socks4/5 & Tor
 
-## Youtube videos
-- [AJadminfinder : PyPi version](https://youtu.be/5C9aOinwKAs/)
-- [AJadminfinder : admin page finder](https://youtu.be/DluCL4aA9UU/)
-- [AJadminfinder3 : admin page finder (update)](https://youtu.be/iJg4NJT5qkY/)
-- [admin panel finder Kali Linux 2018.3](https://youtu.be/kY9KeDqY5QQ)
-
-## Most Blogs that shared AJadminfinder
-- [kitploit.com](https://www.kitploit.com/2019/04/AJadminfinder3-admin-panel-finder-admin.html)
-- [securityonline.info](https://securityonline.info/admin-login-page-finder/)
-- [prodefence.org](https://www.prodefence.org/AJadminfinder3-admin-login-page-finder/)
-- [kalilinuxtutorials.com](https://kalilinuxtutorials.com/AJadminfinder-admin-panel/)
-- [onehack.us](https://onehack.us/t/how-to-find-website-admin-panel-using-AJadminfinder-tool-easy-method/64840)
-- [the-realworld.org](https://the-realworld.org/AJadminfinder-finder-du-panneau-dadministration-finder-admin-page-finder)
-- [crackitdown.com](https://www.crackitdown.com/2019/12/find-admin-panel-using-AJadminFinder.html)
-- [securitynewspaper.com](https://www.securitynewspaper.com/2020/01/02/find-hidden-admin-page-of-any-website/)
