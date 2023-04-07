@@ -1,6 +1,6 @@
 import pytest
 
-from okadminfinder._classes import okadminfinder
+from AJadminfinder._classes import AJadminfinder
 
 
 @pytest.mark.parametrize(
@@ -14,7 +14,7 @@ from okadminfinder._classes import okadminfinder
 )
 def test_url(urls, expected_urls):
     assert (
-        okadminfinder.check_url(urls, headers=None, proxies=None) == expected_urls
+        AJadminfinder.check_url(urls, headers=None, proxies=None) == expected_urls
     )  # noqa: E501
 
 
@@ -23,7 +23,7 @@ def test_url(urls, expected_urls):
 )
 def test_bad_urls(bad_urls):
     with pytest.raises(SystemExit):
-        okadminfinder.create_link(bad_urls)
+        AJadminfinder.create_link(bad_urls)
 
 
 @pytest.mark.parametrize(
@@ -36,4 +36,4 @@ def test_bad_urls(bad_urls):
     ],
 )
 def test_proxy(proxies, expected_proxies):
-    assert okadminfinder.get_proxy(proxies) == expected_proxies
+    assert AJadminfinder.get_proxy(proxies) == expected_proxies

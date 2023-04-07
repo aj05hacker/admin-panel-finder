@@ -1,1 +1,1 @@
-recursive-include okadminfinder/LinkFile/ *.txt
+recursive-include AJadminfinder/LinkFile/ *.txt

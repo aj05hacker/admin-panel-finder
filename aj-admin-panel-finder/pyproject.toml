@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "okadminfinder"
+name = "AJadminfinder"
 version = "1.0.0"
 description = "[ Admin panel finder / Admin Login Page Finder ] ¢σ∂є∂ ву 👻 (❤-❤) 👻"
 authors = ["mIcHyAmRaNe <marseillaisanonymous@gmail.com>"]
 license = "Apache-2.0"
 readme = "README.md"
-homepage = "https://michyamrane.github.io/tools/okadminfinder/"
-repository = "https://github.com/mIcHyAmRaNe/okadminfinder3"
-keywords = ["security-scanner", "pentest-tool", "admin-page-finder", "okadminfinder"]
+homepage = "https://michyamrane.github.io/tools/AJadminfinder/"
+repository = "https://github.com/mIcHyAmRaNe/AJadminfinder3"
+keywords = ["security-scanner", "pentest-tool", "admin-page-finder", "AJadminfinder"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Programming Language :: Python :: 3",
@@ -17,14 +17,14 @@ classifiers = [
     "Natural Language :: English"
 ]
 packages = [
-    { include = "okadminfinder" }
+    { include = "AJadminfinder" }
 ]
 
 [tool.poetry.urls]
-"Bug Tracker" = "https://github.com/mIcHyAmRaNe/okadminfinder3/issues"
+"Bug Tracker" = "https://github.com/mIcHyAmRaNe/AJadminfinder3/issues"
 
 [tool.poetry.scripts]
-okadminfinder = "okadminfinder.okadminfinder:main"
+AJadminfinder = "AJadminfinder.AJadminfinder:main"
 
 [tool.poetry.dependencies]
 python = "^3.7"
