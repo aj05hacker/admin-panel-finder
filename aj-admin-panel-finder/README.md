@@ -1,4 +1,4 @@
-![](https://gist.githubusercontent.com/mIcHyAmRaNe/0b370c808bd1a600778f6a3875e5a732/raw/35f2803c176eeb27d4eea5eac88087b0d78f0ecc/okadminfinder3-.png)
+
 
 [![Build Status](https://travis-ci.org/mIcHyAmRaNe/okadminfinder3.svg?branch=master)](https://travis-ci.org/mIcHyAmRaNe/okadminfinder)
 [![GitHub license](https://img.shields.io/github/license/mIcHyAmRaNe/okadminfinder3.svg)](https://github.com/mIcHyAmRaNe/okadminfinder/blob/master/LICENSE)
